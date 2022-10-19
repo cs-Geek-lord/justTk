@@ -1,2 +1,2 @@
 # Tkinter
-## Tkinter course
+## Tkinter course for beginners
